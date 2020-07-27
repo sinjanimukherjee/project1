@@ -1,0 +1,13 @@
+19:08:46	 From  M MUNIRAJA : touch
+19:08:50	 From  M MUNIRAJA : cat
+19:08:55	 From  M MUNIRAJA : echo
+19:08:58	 From  M MUNIRAJA : vi
+19:09:02	 From  M MUNIRAJA : nano
+19:09:07	 From  M MUNIRAJA : gedit
+19:15:25	 From  M MUNIRAJA : cat >file
+19:16:02	 From  M MUNIRAJA : redirectional operator
+19:17:23	 From  M MUNIRAJA : ctrl d
+19:18:16	 From  M MUNIRAJA : cat file
+19:19:40	 From  M MUNIRAJA : >>
+19:29:18	 From  M MUNIRAJA : more file
+19:29:23	 From  M MUNIRAJA : less file
