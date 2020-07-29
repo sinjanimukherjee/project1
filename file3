@@ -1,3 +1,5 @@
 a=10
 b=20
 echo "a + B : $ val"
+Enter first parameter
+Enter second parameter
