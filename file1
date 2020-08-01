@@ -3,4 +3,4 @@ second_num=4
 add
 echo " first_num + second_num = $ (first_num +second_num)"
 echo "result is"
-Hello World
+
