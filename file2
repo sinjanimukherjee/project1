@@ -1,5 +1,5 @@
 Enter first_number
 Enter second_number
 echo "first_number +second_number"
-echo "result ="
+
 
